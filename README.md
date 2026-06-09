@@ -25,11 +25,11 @@
 
 ## `📊 github_stats.exe`
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ashmit76311&theme=midnight-purple&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" height="160" />
+<img src="https://github-readme-status-coral.vercel.app/api/top-langs/?username=Ashmit76311&theme=midnight-purple&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" height="160" />
 &nbsp;&nbsp;
 <img src="https://streak-stats.demolab.com/?user=Ashmit76311&theme=midnight-purple&hide_border=true" height="160" />
 &nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api?username=Ashmit76311&theme=midnight-purple&hide_border=true&include_all_commits=true&count_private=true&show_icons=true" height="160" />
+<img src="https://github-readme-status-coral.vercel.app/api?username=Ashmit76311&theme=midnight-purple&hide_border=true&include_all_commits=true&count_private=true&show_icons=true" alt="Ashmit's GitHub Stats" height="160" />
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/fWSPJm4cGh?theme=dark&font=Share%20Tech%20Mono&ext=heatmap)
 
@@ -50,7 +50,7 @@ From       :  Ghaziabad, India
 Education  :  B.Tech — CSE @ RKGIT (AKTU), 3rd Year (2023–2027)
 
 Interests  :  Full-Stack + AI/ML — I like building things that actually run
-Currently  :  Technical Head @ SPIC | Google Gemini Student Ambassador
+Currently  :  Google Student Ambassador
 ```
 
 </div>
@@ -95,11 +95,11 @@ Currently  :  Technical Head @ SPIC | Google Gemini Student Ambassador
 ## `> cat achievements.log`
 
 ```
-[✦] Google Gemini Ambassador ..> Nationally selected — Google Campus Program
-[✦] Nebula Debugging Comp .....> WINNER --------- 100+ participants
-[✦] TEDxRKGIT .................> Lead Organizer — 400+ attendees & industry speakers
-[✦] Google Data Analytics .....> Professional Certificate | Coursera (2025)
-[✦] LeetCode ..................> 109 problems | Easy + Medium + Hard
+[✦] Google Gemini Ambassador ... Nationally selected — Google Campus Program
+[✦] Nebula Debugging Comp ...... WINNER -------------- 100+ participants
+[✦] TEDxRKGIT .................. Lead Organizer —----- 400+ attendees & industry speakers
+[✦] Google Data Analytics ...... Professional Certificate | Coursera (2025)
+[✦] Letcode .................... 150+ problems | Easy + Medium + Hard
 ```
 
 </div>

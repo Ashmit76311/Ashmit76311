@@ -50,7 +50,7 @@ From       :  Ghaziabad, India
 Education  :  B.Tech — CSE @ RKGIT (AKTU), 3rd Year (2023–2027)
 
 Interests  :  Full-Stack + AI/ML — I like building things that actually run
-Currently  :  Technical Head @ SPIC | Google Gemini Student Ambassador
+Currently  :  Google Student Ambassador
 ```
 
 </div>

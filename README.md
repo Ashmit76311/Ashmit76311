@@ -96,8 +96,8 @@ Currently  :  Google Student Ambassador
 
 ```
 [✦] Google Gemini Ambassador ... Nationally selected — Google Campus Program
-[✦] Nebula Debugging Comp ...... WINNER -------------- 100+ participants
-[✦] TEDxRKGIT .................. Lead Organizer —----- 400+ attendees & industry speakers
+[✦] Nebula Debugging Competition ...... WINNER ---------- 100+ participants
+[✦] TEDxRKGIT .................. Lead Organizer —--- 400+ attendees & industry speakers
 [✦] Google Data Analytics ...... Professional Certificate | Coursera (2025)
 [✦] LeetCode ................... 109 problems | Easy + Medium + Hard
 ```

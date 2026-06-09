@@ -1,20 +1,21 @@
 <div align="center">
 
 ```
-┌─────────────────────────────────────────────────────────┐
-│                                                         │
-│   > SYSTEM BOOT...                                      │
-│   > LOADING PROFILE: Ashmit76311                        │
-│   > STATUS: ONLINE ██████████ 100%                      │
-│                                                         │
-└─────────────────────────────────────────────────────────┘
+╔══════════════════════════════════════════════════════════╗
+║                                                          ║
+║   > INITIALIZING...                                      ║
+║   > USER: Ashmit76311                                    ║
+║   > STACK: Full-Stack | AI/ML | Builder                  ║
+║   > STATUS: ONLINE ████████████ 100%                     ║
+║                                                          ║
+╚══════════════════════════════════════════════════════════╝
 ```
 
-<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=500&size=22&duration=3000&pause=500&color=00FF41&center=true&width=600&lines=hey+!+I+am+Ashmit+%2C+Welcome+to+my+corner+%3E_;3rd+year+%7C+RKGIT+%2C+AKTU+%7C+CSE;building+real+things+%2C+one+commit+at+a+time" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=500&size=22&duration=3000&pause=500&color=7B61FF&center=true&width=600&lines=hey+!+I+am+Ashmit+%3E_;3rd+year+%7C+RKGIT+%2C+AKTU+%7C+CSE;full-stack+dev+%2B+AI%2FML+tinkerer;shipping+features%2C+not+excuses" alt="Typing SVG" />
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=Ashmit76311&color=00ff41&label=Profile+Visits&style=flat-square" alt="Profile Visits" width="160"/>
+<img src="https://komarev.com/ghpvc/?username=Ashmit76311&color=7B2FFF&label=Profile+Visits&style=flat-square" alt="Profile Visits" width="160"/>
 
 </div>
 
@@ -24,20 +25,20 @@
 
 ## `📊 github_stats.exe`
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ashmit76311&theme=chartreuse-dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" height="160" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ashmit76311&theme=midnight-purple&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" height="160" />
 &nbsp;&nbsp;
-<img src="https://streak-stats.demolab.com/?user=Ashmit76311&theme=chartreuse-dark&hide_border=true" height="160" />
+<img src="https://streak-stats.demolab.com/?user=Ashmit76311&theme=midnight-purple&hide_border=true" height="160" />
 &nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api?username=Ashmit76311&theme=chartreuse-dark&hide_border=true&include_all_commits=true&count_private=true" height="160" />
+<img src="https://github-readme-stats.vercel.app/api?username=Ashmit76311&theme=midnight-purple&hide_border=true&include_all_commits=true&count_private=true&show_icons=true" height="160" />
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/fWSPJm4cGh?theme=chartreuse&font=Share%20Tech%20Mono&ext=heatmap)
+![LeetCode Stats](https://leetcard.jacoblin.cool/fWSPJm4cGh?theme=dark&font=Share%20Tech%20Mono&ext=heatmap)
 
 </div>
 
 ---
 
 <details>
-<summary align="center"><b>> ✨ CLICK ME ✨</b></summary>
+<summary align="center"><b>> ⚡ EXPAND PROFILE ⚡</b></summary>
 
 <br/>
 
@@ -46,11 +47,10 @@
 ```
 Name       :  Ashmit Kumar Srivastav
 From       :  Ghaziabad, India
-Education  :  Pursuing B.Tech in Computer Science and Engineering
-              from RKGIT (AKTU) — 3rd Year
-              
-Interests  :  Full-Stack Dev & AI/ML — both involve breaking things till they work
-Currently  :  Google Student Ambassador
+Education  :  B.Tech — CSE @ RKGIT (AKTU), 3rd Year (2023–2027)
+
+Interests  :  Full-Stack + AI/ML — I like building things that actually run
+Currently  :  Technical Head @ SPIC | Google Gemini Student Ambassador
 ```
 
 </div>
@@ -73,7 +73,7 @@ Currently  :  Google Student Ambassador
 
 <br/><br/>
 
-**// databases & devops**
+**// databases & tools**
 
 <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,firebase,docker,git,github&theme=dark" width="330" />
 
@@ -82,8 +82,8 @@ Currently  :  Google Student Ambassador
 **// ai / ml**
 
 ```
-[ TensorFlow ]  [ CNN ]  [ OpenCV ]  [ Random Forest ]  [ REST APIs ]
-[ scikit-learn ]  [ NumPy ]  [ Pandas ]  [ Flask ]  [ FastAPI ]
+[ TensorFlow ]  [ CNN ]  [ OpenCV ]  [ Random Forest ]  [ scikit-learn ]
+[ NumPy ]  [ Pandas ]  [ REST APIs ]  [ Flask ]  [ FastAPI ]
 ```
 
 </div>
@@ -95,11 +95,11 @@ Currently  :  Google Student Ambassador
 ## `> cat achievements.log`
 
 ```
-[★] Google Gemini Ambassador ... Selected nationally — Google Campus Program
-[★] Nebula Debugging Comp ...... WINNER ----------- 100+ participants
-[★] TEDxRKGIT .................. Lead Organizer --- 400+ attendees
-[★] LeetCode ................... 250+ problems solved across platforms
-[★] Google Data Analytics ...... Professional Certificate | Coursera
+[✦] Google Gemini Ambassador ..> Nationally selected — Google Campus Program
+[✦] Nebula Debugging Comp .....> WINNER --------- 100+ participants
+[✦] TEDxRKGIT .................> Lead Organizer — 400+ attendees & industry speakers
+[✦] Google Data Analytics .....> Professional Certificate | Coursera (2025)
+[✦] LeetCode ..................> 109 problems | Easy + Medium + Hard
 ```
 
 </div>
@@ -110,10 +110,10 @@ Currently  :  Google Student Ambassador
 
 ## `> ./connect.sh`
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%2300FF41.svg?style=flat-square&logo=linkedin&logoColor=black)](https://linkedin.com/in/ashmit-kumar-srivastav)
-[![GitHub](https://img.shields.io/badge/GitHub-%2300FF41.svg?style=flat-square&logo=github&logoColor=black)](https://github.com/Ashmit76311)
-[![Portfolio](https://img.shields.io/badge/Portfolio-%2300FF41.svg?style=flat-square&logo=vercel&logoColor=black)](https://portfolio-ashmit.netlify.app)
-[![LeetCode](https://img.shields.io/badge/LeetCode-%2300FF41.svg?style=flat-square&logo=leetcode&logoColor=black)](https://leetcode.com/u/fWSPJm4cGh/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%237B61FF.svg?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/ashmit-kumar-srivastav)
+[![GitHub](https://img.shields.io/badge/GitHub-%237B61FF.svg?style=flat-square&logo=github&logoColor=white)](https://github.com/Ashmit76311)
+[![Portfolio](https://img.shields.io/badge/Portfolio-%237B61FF.svg?style=flat-square&logo=vercel&logoColor=white)](https://portfolio-ashmit.netlify.app)
+[![LeetCode](https://img.shields.io/badge/LeetCode-%237B61FF.svg?style=flat-square&logo=leetcode&logoColor=white)](https://leetcode.com/u/fWSPJm4cGh/)
 
 <br/>
 
@@ -132,7 +132,7 @@ Currently  :  Google Student Ambassador
 > thanks for visiting _
 ```
 
-<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=500&duration=3000&pause=500&color=00FF41&center=true&width=435&lines=Thank+you+for+visiting+!+%3E_" alt="Thank you for visiting!" />
+<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=500&duration=3000&pause=500&color=7B61FF&center=true&width=435&lines=Thank+you+for+visiting+!+%3E_" alt="Thank you for visiting!" />
 
 </div>
 

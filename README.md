@@ -31,7 +31,7 @@
 &nbsp;&nbsp;
 <img src="https://github-readme-status-coral.vercel.app/api?username=Ashmit76311&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true" alt="Ashmit's GitHub Stats" height="160" />
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/fWSPJm4cGh?theme=nord&font=Share%20Tech%20Mono&ext=heatmap)
+![LeetCode Stats](https://leetcard.jacoblin.cool/Ashmit_Srivastav?theme=nord&font=Share%20Tech%20Mono&ext=heatmap)
 
 </div>
 

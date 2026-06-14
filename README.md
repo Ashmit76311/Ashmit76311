@@ -113,7 +113,7 @@ Currently  :  Google Student Ambassador
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%2300D4FF.svg?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/ashmit-kumar-srivastav)
 [![GitHub](https://img.shields.io/badge/GitHub-%2300D4FF.svg?style=flat-square&logo=github&logoColor=white)](https://github.com/Ashmit76311)
 [![Portfolio](https://img.shields.io/badge/Portfolio-%2300D4FF.svg?style=flat-square&logo=vercel&logoColor=white)](https://portfolio-ashmit.netlify.app)
-[![LeetCode](https://img.shields.io/badge/LeetCode-%2300D4FF.svg?style=flat-square&logo=leetcode&logoColor=white)](https://leetcode.com/u/fWSPJm4cGh/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-%2300D4FF.svg?style=flat-square&logo=leetcode&logoColor=white)](https://leetcode.com/u/Ashmit_Srivastav/)
 
 <br/>
 

@@ -11,7 +11,7 @@
 ╚══════════════════════════════════════════════════════════╝
 ```
 
-<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=500&size=22&duration=3000&pause=500&color=00D4FF&center=true&width=600&lines=hey+!+I+am+Ashmit+%3E_;3rd+year+%7C+RKGIT+%2C+AKTU+%7C+CSE;full-stack+dev+%2B+AI%2FML+tinkerer;shipping+features%2C+not+excuses" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=500&size=22&duration=3000&pause=500&color=00D4FF&center=true&width=600&lines=hey+!+I+am+Ashmit+%3E_;4th+year+%7C+RKGIT+%2C+AKTU+%7C+CSE;full-stack+dev+%2B+AI%2FML+tinkerer;shipping+features%2C+not+excuses" alt="Typing SVG" />
 
 <br/>
 

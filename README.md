@@ -47,7 +47,7 @@
 ```
 Name       :  Ashmit Kumar Srivastav
 From       :  Ghaziabad, India
-Education  :  B.Tech — CSE @ RKGIT (AKTU), 3rd Year (2023–2027)
+Education  :  B.Tech — CSE @ RKGIT (AKTU), 4th Year (2023–2027)
 
 Interests  :  Full-Stack + AI/ML — I like building things that actually run
 Currently  :  Google Student Ambassador

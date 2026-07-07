@@ -27,8 +27,6 @@
 
 <img src="https://github-readme-status-coral.vercel.app/api/top-langs/?username=Ashmit76311&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" height="160" />
 &nbsp;&nbsp;
-<img src="https://streak-stats.demolab.com/?user=Ashmit76311&theme=tokyonight&hide_border=true" height="160" />
-&nbsp;&nbsp;
 <img src="https://github-readme-status-coral.vercel.app/api?username=Ashmit76311&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true" alt="Ashmit's GitHub Stats" height="160" />
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/Ashmit_Srivastav?theme=nord&font=Share%20Tech%20Mono&ext=heatmap)
@@ -98,8 +96,7 @@ Currently  :  Google Student Ambassador
 [✦] Google Gemini Ambassador ... Nationally selected — Google Campus Program
 [✦] Nebula Debugging Competition ...... WINNER ---------- 100+ participants
 [✦] TEDxRKGIT .................. Lead Organizer —--- 400+ attendees & industry speakers
-[✦] Google Data Analytics ...... Professional Certificate | Coursera (2025)
-[✦] LeetCode ................... 109 problems | Easy + Medium + Hard
+[✦] LeetCode ................... 150+ problems | Easy + Medium + Hard
 ```
 
 </div>

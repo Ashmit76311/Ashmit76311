@@ -28,6 +28,8 @@
 <img src="https://github-readme-status-coral.vercel.app/api/top-langs/?username=Ashmit76311&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" height="160" />
 &nbsp;&nbsp;
 <img src="https://github-readme-status-coral.vercel.app/api?username=Ashmit76311&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true" alt="Ashmit's GitHub Stats" height="160" />
+&nbsp;&nbsp;
+<img src="https://streak-stats.demolab.com/?user=Ashmit76311&theme=chartreuse-dark&hide_border=true" height="160" />
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/Ashmit_Srivastav?theme=nord&font=Share%20Tech%20Mono&ext=heatmap)
 
@@ -59,26 +61,25 @@ Currently  :  Google Student Ambassador
 
 ## `> ls skills/`
 
-**// languages**
+**// Languages**
 
-<img src="https://skillicons.dev/icons?i=java,python,javascript,cpp,sql&theme=dark" width="230" />
+<img src="https://skillicons.dev/icons?i=java,python,javascript,c,sql&theme=dark" width="230" />
 
 <br/><br/>
 
-**// frontend & backend**
+**// Frontend & Backend**
 
 <img src="https://skillicons.dev/icons?i=html,css,react,tailwind,nodejs,express,fastapi,flask&theme=dark" width="380" />
 
 <br/><br/>
 
-**// databases & tools**
+**// Databases & Tools**
 
 <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,firebase,docker,git,github&theme=dark" width="330" />
 
 <br/><br/>
 
-**// ai / ml**
-
+**// AI / ML**
 ```
 [ TensorFlow ]  [ CNN ]  [ OpenCV ]  [ Random Forest ]  [ scikit-learn ]
 [ NumPy ]  [ Pandas ]  [ REST APIs ]  [ Flask ]  [ FastAPI ]
@@ -95,8 +96,8 @@ Currently  :  Google Student Ambassador
 ```
 [✦] Google Gemini Ambassador ... Nationally selected — Google Campus Program
 [✦] Nebula Debugging Competition ...... WINNER ---------- 100+ participants
-[✦] TEDxRKGIT .................. Lead Organizer —--- 400+ attendees & industry speakers
-[✦] LeetCode ................... 150+ problems | Easy + Medium + Hard
+[✦] TEDxRKGIT .................. Lead Organizer —--- 250+ attendees & industry speakers
+[✦] LeetCode ................... 200+ problems
 ```
 
 </div>
